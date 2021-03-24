@@ -1,0 +1,250 @@
+@media only screen and (max-width:1500px) {
+    .midwidth {
+        padding: 0 30px;
+    }
+
+}
+
+
+@media only screen and (max-width:1160px) {
+    .header-row {
+        height: 130px;
+
+    }
+
+    .header-row .header-logo {
+        width: 100%;
+        float: none;
+        margin-top: 0;
+        margin-left: 0;
+        text-align: center;
+    }
+
+
+    .header-row .header-menu {
+        width: 100%;
+        float: none;
+        text-align: center;
+        line-height: normal;
+    }
+
+
+    .header-row .header-menu ul li {
+        border: none;
+    }
+
+}
+
+
+@media only screen and (max-width:900px) {
+
+    .service-row .service-item {
+        width: 100%;
+        margin-bottom: 70px;
+        border: 1px solid black;
+        padding: 50px;
+        margin-left: 0;
+    }
+
+    .about-row p {
+        max-width: 100%;
+    }
+
+    .notify-row .notify-left {
+        width: 100%;
+
+    }
+
+    .notify-row .notify-right {
+        width: 100%;
+
+    }
+
+    .footer-row .social-menu ul li a {
+       
+        padding: 0px;
+    
+    }
+
+}
+
+
+
+
+
+@media only screen and (max-width:700px) {
+    .header-row .header-menu ul li a {
+
+        padding: 13px 10px;
+
+    }
+
+
+    .banner-row {
+
+        height: 100px;
+    }
+
+    .banner-row h2 {
+
+        font-size: 25px;
+
+    }
+
+    .banner-row h4 {
+        font-size: 24px;
+
+        max-width: 100%;
+    }
+}
+
+
+@media only screen and (max-width:500px){
+    .footer-row .footer-title {
+    
+        width: 100%;
+        
+      
+        margin-bottom: 20px;
+    }
+
+    .footer-row .social-menu {
+        width: 100%;
+  
+        text-align: center;
+    
+    }
+
+    .footer-row .social-menu ul li a {
+   
+        font-size: 20px;
+   
+    }
+
+    .footer-row .footer-title p {
+        font-size: 12px;
+       
+    }
+
+   
+}
+
+
+
+
+@media only screen and (max-width:450px) {
+    .header-row .header-logo a img {
+        width: 120px;
+        margin-top: 10px;
+    }
+
+
+    .header-row .header-menu ul li a {
+        padding: 11px 2px;
+    }
+
+
+    .notify-row .notify-left .notify-img img {
+        width: inherit;
+         float: none;
+    
+     
+    }
+}
+
+
+
+@media only screen and (max-width:370px) {
+    .header-row {
+        background: none;
+
+    }
+
+    .header-row .header-logo {
+
+        background: rebeccapurple;
+    }
+
+    .header-row .header-menu ul li a {
+
+        color: #0f0e0e;
+
+    }
+
+    .header-row .header-menu ul li {
+        display: block;
+
+    }
+
+    .banner-row h2 {
+        font-size: 15px;
+        margin-top: 100px;
+    }
+
+    .banner-row h4 {
+        font-size: 18px;
+        max-width: 100%;
+        background: #4D0793C9;
+    }
+
+    .header-row .header-menu {
+         text-align: start;
+     
+    }
+}
+
+
+
+@media only screen and (max-width:350px){
+
+    .service-row .service-item {
+      
+        padding: 15px;
+  
+    }
+
+   
+}
+
+
+@media only screen and (max-width:240px){
+    .service-row .service-item {
+ 
+        margin-bottom: 15px;
+      
+    }
+
+    .service-row .service-item span {
+     
+        font-size: 30px;
+
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+     
+    }
+
+    .service-row .service-item h3 {
+        font-size: 15px;
+        padding: 4px 0px;
+    }
+
+    .service-row .service-item p {
+
+        font-size: 15px;
+    }
+
+    .notify-row .notify-left .notify-img p {
+
+        font-size: 17px;
+        text-align: left;
+        line-height: 21px;
+    }
+
+    .notify-row .notify-right .notify-list ul li {
+        font-size: 14px;
+         border: none;
+   
+    }
+
+}
